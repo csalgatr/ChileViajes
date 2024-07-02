@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#000000;
+}
+.raleway-medium  {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: #ffffff;
+  }
+  
+  .raleway-light {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: #ffffff;
+  }
