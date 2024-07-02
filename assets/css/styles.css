@@ -25,7 +25,7 @@ body {
   .card{
     background-color: #00b4db;
     color: white;
-    
+
   }
   
   .text-color {
@@ -44,4 +44,11 @@ body {
   }
   .text-center {
     color: white;
+  }
+  footer{
+    font-family: "Raleway", sans-serif;
+    text-align: left;
+    color: white;
+    padding: 20px;
+    background-color: #00b4db;
   }
