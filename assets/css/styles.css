@@ -18,3 +18,30 @@ body {
     font-style: normal;
     color: #ffffff;
   }
+.carrusel-inner{
+    height: 80vh;
+}
+
+  .card{
+    background-color: #00b4db;
+    color: white;
+    
+  }
+  
+  .text-color {
+    color: white;
+    padding: 5rem;
+  }
+  .text-start {
+    color: white;
+  }
+
+  .fa-solid {
+    background-color: #00b4db;
+  }
+  .mb-3 {
+    color: white;
+  }
+  .text-center {
+    color: white;
+  }
