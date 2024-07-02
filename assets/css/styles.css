@@ -6,7 +6,7 @@ body {
 .raleway-medium  {
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 500;
+    font-weight: 200;
     font-style: normal;
     color: #ffffff;
   }
@@ -14,10 +14,21 @@ body {
   .raleway-light {
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 300;
+    font-weight: 100;
     font-style: normal;
     color: #ffffff;
   }
+
+  .nav-item{
+    color: white;
+    width: 14;
+  }
+
+  .align-text-top{
+    width: 14;
+  }
+  
+    
 .carrusel-inner{
     height: 80vh;
 }
@@ -25,6 +36,7 @@ body {
   .card{
     background-color: #00b4db;
     color: white;
+    
 
   }
   
@@ -49,6 +61,12 @@ body {
     font-family: "Raleway", sans-serif;
     text-align: left;
     color: white;
-    padding: 20px;
+    padding: 1px;
     background-color: #00b4db;
+    
   }
+  
+  .text {
+    text-align: right;
+  }
+    
