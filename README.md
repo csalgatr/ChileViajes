@@ -1,1 +1,1 @@
-En el trabajo se utilizaron elementod de bootstrap, google font, fontanweresome.
+En el trabajo se utilizaron elementos de bootstrap, google font, fontanweresome.
